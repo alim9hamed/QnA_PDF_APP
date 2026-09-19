@@ -1,9 +1,0 @@
-langchain
-gradio
-python-dotenv
-nltk 
-chromadb
-langchain-groq
-huggingface_hub
-langchain-community
-pypdf
